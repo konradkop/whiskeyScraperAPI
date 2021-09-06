@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/slhoehn/whiskeyScraper#readme",
   "dependencies": {
-    "puppeteer": "^10.2.0"
+    "axios": "^0.21.4",
+    "cheerio": "^1.0.0-rc.3",
+    "got": "^10.4.0",
+    "puppeteer": "^10.2.0",
+    "string-similarity": "^4.0.4"
   }
 }
